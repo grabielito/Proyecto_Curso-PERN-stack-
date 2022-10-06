@@ -32,7 +32,7 @@ En la carpeta backend
 
 ### npm i
 
-### npm run server.
+### npm run server
 
 Para ejecutar el frontend:
 
@@ -42,6 +42,6 @@ En la carpeta tuenvioadmon
 
 ### npm start 
 
-### Agradecimientos al canal de Fazt ya que resulto de gran ayuda en la realización del mismo
+### Agradecimientos al canal de Fazt ya que resulto de gran ayuda en la realización del mismo.
 
 Cualquier duda, crítica o sugerencia será bienvenida.
