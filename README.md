@@ -5,7 +5,7 @@ por los usarios en un sistema en linea.
 El modulo se centra en todo el CRUD que debe poder realizar el trabajador que gestiona el etiquetado, empaquetado y acomodo de los paquetes 
 (conjunto de compras realizadas por un usuario) en el almacén de salida.
 
-## Tecnologias utilizadas:
+## Tecnologías utilizadas:
 Para la realización de la API (Backend) del mismo se utilizó el framework de nodeJS Express junto al modulo pg que permitió realizar las consultas en el propio 
 lenguaje SQL a la Base de datos empleada (Postgre).
 
