@@ -1,0 +1,21 @@
+.bt-logg {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    float: inline-end;
+    box-shadow: 0px 5px 9px 0px;
+}
+
+.maintitle {
+    border-radius: 10px;
+}
+
+.loggin-contenedor {
+    float: right;
+    margin-top: 5px;
+}
+
+.Button {
+    margin: 5px;
+}

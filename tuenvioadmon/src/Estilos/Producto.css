@@ -1,0 +1,23 @@
+.card-content {
+    background-color: lightblue;
+    width: 250px;
+    margin: 0;
+
+}
+
+.image-content {
+    width: 250px;
+    display: grid;
+    margin-bottom: 0;
+    border-radius: 10px 10px 0 0;
+}
+
+.card {
+    margin-top: 10px;
+    width: 250px;
+}
+
+.col {
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+
+}
